@@ -17,7 +17,7 @@ function random_char($string) {
   return $string[$i];
 }
 
-echo random_char($chars);
+//echo random_char($chars);
 
 //Build up random strings
 
@@ -32,7 +32,7 @@ for($i=0; $i<$length; $i++) {
 return $output;
 }
 
-echo random_string(8, $chars);
+//echo random_string(8, $chars);
 
 // Allow configuration of the returned string
 function generate_password($length) {
