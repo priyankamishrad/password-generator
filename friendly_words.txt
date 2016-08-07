@@ -168,10 +168,8 @@ Echidna
 Eel
 Egret
 Elephant
-Elephant seal
 Elk
 Emu
-English pointer
 Ermine
 Falcon
 Ferret
@@ -185,76 +183,59 @@ Flyingfish
 Fowl
 Fox
 Frog
-Fruit bat
-Gamefowl   (list)
-Galliform   (list)
+Gamefowl
+Galliform
 Gazelle
 Gecko
 Gerbil
-Giant panda
-Giant squid
 Gibbon
-Gila monster
 Giraffe
-Goat   (list)
+Goat   
 Goldfish
-Goose   (list)
+Goose   
 Gopher
 Gorilla
 Grasshopper
-Great blue heron
-Great white shark
-Grizzly bear
-Ground shark
-Ground sloth
 Grouse
-Guan   (list)
+Guan
 Guanaco
-Guineafowl   (list)
-Guinea pig   (list)
+Guineafowl   
 Gull
 Guppy
 Haddock
 Halibut
-Hammerhead shark
 Hamster
 Hare
 Harrier
 Hawk
 Hedgehog
-Hermit crab
 Heron
 Herring
 Hippopotamus
 Hookworm
 Hornet
-Horse   (list)
+Horse   
 Hoverfly
 Hummingbird
-Humpback whale
 Hyena
 Iguana
 Impala
-Irukandji jellyfish
+Irukandji 
 Jackal
 Jaguar
 Jay
 Jellyfish
 Junglefowl
 Kangaroo
-Kangaroo mouse
-Kangaroo rat
 Kingfisher
 Kite
 Kiwi
 Koala
 Koi
-Komodo dragon
 Krill
 Ladybug
 Lamprey
 Landfowl
-Land snail
 Lark
 Leech
 Lemming
@@ -277,7 +258,6 @@ Magpie
 Mammal
 Manatee
 Mandrill
-Manta ray
 Marlin
 Marmoset
 Marmot
@@ -293,22 +273,18 @@ Mockingbird
 Mole
 Mollusk
 Mongoose
-Monitor lizard
 Monkey
 Moose
 Mosquito
 Moth
-Mountain goat
 Mouse
 Mule
 Muskox
 Narwhal
 Newt
-New World quail
 Nightingale
 Ocelot
 Octopus
-Old World quail
 Opossum
 Orangutan
 Orca
@@ -332,20 +308,16 @@ Pheasant
 Pig
 Pigeon
 Pike
-Pilot whale
 Pinniped
 Piranha
 Planarian
 Platypus
-Polar bear
 Pony
 Porcupine
 Porpoise
 Portuguese
 Possum
-Prairie dog
 Prawn
-Praying mantis
 Primate
 Ptarmigan
 Puffin
@@ -365,7 +337,6 @@ Red panda
 Reindeer
 Reptile
 Rhinoceros
-Right whale
 Roadrunner
 Rodent
 Rook
@@ -375,7 +346,6 @@ Sailfish
 Salamander
 Salmon
 Sawfish
-Scale insect
 Scallop
 Scorpion
 Seahorse
@@ -396,24 +366,17 @@ Smelt
 Snail
 Snake
 Snipe
-Snow leopard
-Sockeye salmon
 Sole
 Sparrow
-Sperm whale
 Spider
-Spider monkey
 Spoonbill
 Squid
 Squirrel
 Starfish
-Star-nosed mole
-Steelhead trout
 Stingray
 Stoat
 Stork
 Sturgeon
-Sugar glider
 Swallow
 Swan
 Swift
@@ -424,27 +387,22 @@ Takin
 Tapir
 Tarantula
 Tarsier
-Tasmanian devil
 Termite
 Tern
 Thrush
 Tick
 Tiger
-Tiger shark
 Tiglon
 Toad
 Tortoise
 Toucan
-Trapdoor spider
 Tree frog
 Trout
 Tuna
-Turkey   (list)
+Turkey  
 Turtle
 Tyrannosaurus
 Urial
-Vampire bat
-Vampire squid
 Vicuna
 Viper
 Vole
@@ -453,13 +411,10 @@ Wallaby
 Walrus
 Wasp
 Warbler
-Water Boa
-Water buffalo
 Weasel
 Whale
 Whippet
 Whitefish
-Whooping crane
 Wildcat
 Wildebeest
 Wildfowl
@@ -470,17 +425,13 @@ Woodpecker
 Worm
 Wren
 Xerinae
-X-ray fish
 Yak
-Yellow perch
 Zebra
-Zebra finch
 zombie
 zynga
 zit
 zara
 zayn
-zig zag
 zonk
 zoso
 zeke
