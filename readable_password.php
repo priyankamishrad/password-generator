@@ -9,7 +9,7 @@ function read_dictionary($filename = "") {
 
 //function to pick a random word from the $word array
 function pick_random($array) {
-  $i = mt_rand(0, count($array) -1);
+  $i = mt_rand(0,count($array) -1);
   return $array[$i];
 }
 
@@ -27,42 +27,19 @@ function pick_random_number($digit) {
   return strval(mt_rand($min,$max));
 }
 
-//filter words by length, array_walk, array_filter and array_map
-function filter_words_by_length($array, $length) {
-  $select_words = array();
-  foreach($array as $word) {
-    if(strlen($word == $length)){
-      $select_words[] = $word; //we can also push method.
-    }
-  }
-  return $select_words;
-}
 $basic_words = read_dictionary('friendly_words.txt');
 $brand_words = read_dictionary('brand_words.txt');
+$small_words = read_dictionary('small_words.txt');
 
 $words = array_merge($brand_words, $basic_words);
-//array_unique wil make sure that after merging,
-//the $words array only has unique words in it.
 
-$length = 12;
-$word_count = 12;
-$digit_count = 2;
-$symbol_count = 1;
-$avg_length = ($length - $digit_count - $symbol_count) / $word_count;
-
+//$length = 12;
 $password = "";
-
-$next_wlength = mt_rand($avg_length -1,$avg_length +1);
-$select_words = filter_words_by_length($words, $next_wlength);
-$password .= pick_random($select_words);
-
+$password .= pick_random($words);
 $password .= pick_random_symbol();
-$password .= pick_random_number($digit_count);
+$password .= pick_random_number(2);
+$password .= pick_random($small_words);
 
-$next_wlength = $length - strlen($password);
-$select_words = filter_words_by_length($words, $next_wlength);
-$password .= pick_random($select_words);
-
-echo "" ."friendly password: " . $password . "<br>";
+echo "Friendly password: " . $password . "<br>";
 echo "Length: " . strlen($password) . "<br>";
-
+?>
